@@ -1,2 +1,2 @@
 # week4_task
-formating strings through basic codes. Reversding strings and variables.
+formating strings through basic codes. Reversing strings and variables.
